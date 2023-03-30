@@ -10,7 +10,7 @@
 ### Materias aprobadas:
 1. Introducción a lógica y problemas computacionales
 * Matemática para informática I.
-+ Organización de computadoras I.
+* Organización de computadoras I.
 + Nuevos entornos y lenguajes.
 + Taller de lenguajes de marcado y tecnologías web.
 + Programación estructurada.
