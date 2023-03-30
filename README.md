@@ -2,6 +2,8 @@
 # Presentación Maia Barrionuevo
 ## Hola! Mi nobre es Maia Barrionuevo, soy estudiante de segundo año de la carrera *tecnicatura en programación*.
 
+![Logo de UNAHUR](./assets/unahur.jpg)
+
 ### En mi tiempo libre me gusta:
 + Leer.
 + Mirar películas.
