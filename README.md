@@ -1,6 +1,6 @@
 
 # Presentación Maia Barrionuevo
-## Hola! Mi nobre es Maia Barrionuevo, soy estudiante de segundo año de la carrera *tecnicatura en programación*.
+## Hola! Mi nombre es Maia Barrionuevo, soy estudiante de segundo año de la carrera *tecnicatura en programación*.
 
 ![Logo de UNAHUR](./assets/unahur.jpg)
 
